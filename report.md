@@ -2,7 +2,7 @@
 
 ### Краткое описание
 
-Было создано [базовое приложение](https://github.com/ValeriaBorisova/Introduction-to-Java/blob/master/src/ru/netology/Main.java), позволившее воспроизвести [ситуацию](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md-1---money-transfer), в результате которой баланс VIP-клиента отобразился некорректно при пополнении счёта.
+Было создано [базовое приложение](https://github.com/ValeriaBorisova/Introduction-to-Java/blob/master/src/ru/netology/Main.java), позволившее воспроизвести [ситуацию](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer), в результате которой баланс VIP-клиента отобразился некорректно при пополнении счёта.
 
 ### Описание тестов
 
